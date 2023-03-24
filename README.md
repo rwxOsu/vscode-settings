@@ -21,7 +21,7 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
 ## Settings
 ```json
 {
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Tokyo Night",
   "window.zoomLevel": 0,
   "editor.fontSize": 20,
   "editor.mouseWheelZoom": true,
