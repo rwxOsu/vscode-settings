@@ -1,12 +1,12 @@
 # VSCode Settings
 All of the Setup I use for VSCode
 
-##Themes
+## Themes
 
-##Extensions
+## Extensions
 
 ## Settings
-'''
+```
 {
   "workbench.colorTheme": "Default Dark+",
   "window.zoomLevel": 0,
@@ -32,11 +32,11 @@ All of the Setup I use for VSCode
   "liveServer.settings.ChromeDebuggingAttachment": true,
   "liveServer.settings.donotShowInfoMsg": true
 }
-'''
+```
 
 
-##Keybindings
-'''
+## Keybindings
+```
 // Place your key bindings in this file to override the defaults
 [
     {
@@ -56,4 +56,4 @@ All of the Setup I use for VSCode
     }
 
 ]
-'''
+```
