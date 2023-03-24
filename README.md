@@ -2,7 +2,7 @@
 All of the Setup I use for VSCode
 
 ## Themes
-###Tokyo Night
+### Tokyo Night
 Id: enkia.tokyo-night
 Description: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 Version: 0.9.8
@@ -10,7 +10,7 @@ Publisher: enkia
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
 ## Extensions
-###Auto Rename Tag
+### Auto Rename Tag
 Id: formulahendry.auto-rename-tag
 Description: Auto rename paired HTML/XML tag
 Version: 0.1.10
