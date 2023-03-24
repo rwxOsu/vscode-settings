@@ -1,5 +1,5 @@
 # VSCode Settings
-All of the Setup I use for VSCode
+The setup I use for VSCode
 
 ## Themes
 ### Tokyo Night
