@@ -2,11 +2,24 @@
 All of the Setup I use for VSCode
 
 ## Themes
+###Tokyo Night
+Id: enkia.tokyo-night
+Description: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+Version: 0.9.8
+Publisher: enkia
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
 ## Extensions
+###Auto Rename Tag
+Id: formulahendry.auto-rename-tag
+Description: Auto rename paired HTML/XML tag
+Version: 0.1.10
+Publisher: Jun Han
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
 
 ## Settings
-```
+```json
 {
   "workbench.colorTheme": "Default Dark+",
   "window.zoomLevel": 0,
@@ -36,8 +49,7 @@ All of the Setup I use for VSCode
 
 
 ## Keybindings
-```
-// Place your key bindings in this file to override the defaults
+```json
 [
     {
         "key": "ctrl+n",
