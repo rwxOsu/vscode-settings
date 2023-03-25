@@ -21,10 +21,13 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
 ## Settings
 ```json
 {
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
   "workbench.colorTheme": "Tokyo Night",
   "window.zoomLevel": 0,
   "editor.fontSize": 20,
   "editor.mouseWheelZoom": true,
+  "editor.stickyScroll.enabled": true,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.suggest.insertMode": "replace",
   "editor.formatOnSave": true,
@@ -32,10 +35,8 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
     "source.fixAll": true,
     "source.sortImports": true
   },
+  
   "workbench.iconTheme": "vscode-icons",
-
-  "typescript.suggest.paths": false,
-  "javascript.suggest.paths": false,
 
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "explorer.autoReveal": true,
