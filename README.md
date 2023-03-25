@@ -21,13 +21,21 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
 ## Settings
 ```json
 {
+  //Autosave
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
-  "workbench.colorTheme": "Tokyo Night",
+  //Visuals
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  //Editor
   "window.zoomLevel": 0,
-  "editor.fontSize": 20,
+  "editor.fontSize": 15,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.guides.bracketPairs": "active",
   "editor.mouseWheelZoom": true,
   "editor.stickyScroll.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.suggest.insertMode": "replace",
   "editor.formatOnSave": true,
@@ -35,17 +43,40 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formula
     "source.fixAll": true,
     "source.sortImports": true
   },
-  
-  "workbench.iconTheme": "vscode-icons",
-
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "explorer.autoReveal": true,
-
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.list.smoothScrolling": true,
+  "files.insertFinalNewline": true,
+  "search.exclude": {
+    "**/.git": true,
+    "**/.github": true,
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.pnpm": true,
+    "**/.vscode": true,
+    "**/.yarn": true,
+    "**/bower_components": true,
+    "**/dist/**": true,
+    "**/logs": true,
+    "**/node_modules": true,
+    "**/out/**": true,
+    "**/package-lock.json": true,
+    "**/pnpm-lock.yaml": true,
+    "**/tmp": true,
+    "**/yarn.lock": true
+  },
+  //Terminal
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontWeight": "300",
+  "terminal.integrated.tabs.enabled": true,
+  //Liveserver Extension
   "liveServer.settings.CustomBrowser": "firefox",
   "liveServer.settings.NoBrowser": false,
   "liveServer.settings.ChromeDebuggingAttachment": true,
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
 }
+
 ```
 
 
