@@ -3,6 +3,7 @@ The setup I use for VSCode
 
 ## Themes
 - Tokyo Night
+- Community Material Theme
 - Dark Horizon
 - Material Icon Theme
 - vscode-icons
