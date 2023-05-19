@@ -2,20 +2,31 @@
 The setup I use for VSCode
 
 ## Themes
-### Tokyo Night
-Id: enkia.tokyo-night
-Description: A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
-Version: 0.9.8
-Publisher: enkia
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
+- Tokyo Night
+- Dark Horizon
+- Material Icon Theme
+- vscode-icons
+- SynthWave '84
 
 ## Extensions
-### Auto Rename Tag
-Id: formulahendry.auto-rename-tag
-Description: Auto rename paired HTML/XML tag
-Version: 0.1.10
-Publisher: Jun Han
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+- Auto REname Tag
+- C/C++ by Microsoft
+- CMake
+- GitLens
+- Output Colorizer
+- Path Intellisense
+- Prettier - Code formatter
+- Project Manager
+- WSL
+- YAML
+- ESLint
+- HTML CSS Support
+- HTMLHint
+- htmltagwrap
+- Import Cost
+- Live Server
+- Stylelint
+
 
 
 ## Settings
