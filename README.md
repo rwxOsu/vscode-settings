@@ -9,7 +9,7 @@ The setup I use for VSCode
 - SynthWave '84
 
 ## Extensions
-- Auto REname Tag
+- Auto Rename Tag
 - C/C++ by Microsoft
 - CMake
 - GitLens
@@ -36,15 +36,18 @@ The setup I use for VSCode
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 1000,
   //Visuals
-  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
   "workbench.iconTheme": "material-icon-theme",
   //Editor
+  "editor.minimap.enabled": false,
   "window.zoomLevel": 0,
-  "editor.fontSize": 15,
+  "editor.fontSize": 17,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.guides.bracketPairs": "active",
   "editor.mouseWheelZoom": true,
   "editor.stickyScroll.enabled": true,
+  "editor.parameterHints.enabled": true,
   "editor.inlineSuggest.enabled": true,
   "editor.suggestSelection": "first",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
