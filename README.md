@@ -9,6 +9,7 @@ The setup I use for VSCode
 - Material Icon Theme
 - vscode-icons
 - SynthWave '84
+- Synthwave x Fluoromachine
 
 ## Extensions
 - Auto Rename Tag
