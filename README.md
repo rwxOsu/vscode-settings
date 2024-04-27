@@ -12,7 +12,6 @@ The setup I use for VSCode
 - Synthwave x Fluoromachine
 
 ## Extensions
-- Auto Rename Tag
 - C/C++ by Microsoft
 - CMake
 - GitLens
