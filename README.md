@@ -13,6 +13,7 @@ The setup I use for VSCode
 
 ## Extensions
 - C/C++ by Microsoft
+- Debug Visualizer
 - CMake
 - GitLens
 - Output Colorizer
